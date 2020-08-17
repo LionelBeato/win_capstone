@@ -12,7 +12,7 @@ Is there a backend and a frontend? How coupled are the two? If the backend went 
 
 ## Code Completeness - *20 points*
 
-Are all the appropiate components fully complete? Are the necessary operations and communications actually occuring between major code components and not just mocked?
+Are all the appropiate components fully complete? Are the necessary operations and communications actually occuring between major code components and not just mocked? Are there at least two CRUD operations? 
 
 ## Agileness - *20 points*
 
